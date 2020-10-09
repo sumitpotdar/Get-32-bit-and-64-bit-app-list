@@ -1,0 +1,1 @@
+# Get-32-bit-and-64-bit-app-list
